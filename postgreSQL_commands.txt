@@ -65,6 +65,8 @@ VALUES(7, 'Sub1', 6, 200, '2024-02-25');
 
 
 
+
+
 -- Make sure data is correct
 SELECT * from item
 
@@ -108,3 +110,4 @@ $$ LANGUAGE plpgsql;
 SELECT Get_Total_Cost('Item1') from item WHERE item_name = 'Item1';
 
 SELECT Get_Total_Cost('Item2') from item WHERE item_name = 'Item2';
+
