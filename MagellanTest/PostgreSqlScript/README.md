@@ -66,7 +66,7 @@ VALUES(7, 'Sub1', 6, 200, '2024-02-25');
 
 
 -- Make sure data is correct
-SELECT * from item
+SELECT * from item;
 
 
 SELECT COST FROM item WHERE item_name = 'Sub4';
