@@ -3,7 +3,7 @@
 -- Login to postgres via psql
 psql -U postgres
 
-
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA replays TO admins;
 -- Do a quick version check
 SELECT version();
 

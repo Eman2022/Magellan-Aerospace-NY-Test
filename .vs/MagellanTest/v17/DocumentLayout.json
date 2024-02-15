@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|c:\\users\\eman2\\onedrive\\jobs\\magallen_forked\\magellan-aerospace-ny-test\\magellantest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|c:\\users\\eman2\\onedrive\\jobs\\magallen_forked\\magellan-aerospace-ny-test\\magellantest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|c:\\users\\eman2\\onedrive\\jobs\\magallen_forked\\magellan-aerospace-ny-test\\magellantest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|c:\\users\\eman2\\onedrive\\jobs\\magallen_forked\\magellan-aerospace-ny-test\\magellantest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC6D199A-C1F7-49D1-958F-DB6F1062334E}|MagellanTest\\MagellanTest.csproj|solutionrelative:magellantest\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\eman2\\OneDrive\\jobs\\Magallen_forked\\Magellan-Aerospace-NY-Test\\MagellanTest\\appsettings.Development.json",
               "RelativeDocumentMoniker": "MagellanTest\\appsettings.Development.json",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "MagellanTest\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-15T03:32:32.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T03:32:32.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\eman2\\OneDrive\\jobs\\Magallen_forked\\Magellan-Aerospace-NY-Test\\MagellanTest\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MagellanTest\\Properties\\launchSettings.json",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "MagellanTest\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-02-15T03:02:53.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T03:02:53.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eman2\\OneDrive\\jobs\\Magallen_forked\\Magellan-Aerospace-NY-Test\\MagellanTest\\Program.cs",
               "RelativeDocumentMoniker": "MagellanTest\\Program.cs",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "MagellanTest\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-15T02:39:05.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T02:39:05.72Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "MagellanTest\\Controllers\\ItemsController.cs",
               "ToolTip": "C:\\Users\\eman2\\OneDrive\\jobs\\Magallen_forked\\Magellan-Aerospace-NY-Test\\MagellanTest\\Controllers\\ItemsController.cs",
               "RelativeToolTip": "MagellanTest\\Controllers\\ItemsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAArAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-14T02:45:53.618Z",
               "EditorCaption": ""

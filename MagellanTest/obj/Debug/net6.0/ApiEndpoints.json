@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "ContainingType": "MagellanTest.Controllers.ItemsController",
+    "Method": "SetData",
+    "RelativePath": "Items/Insert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "parent_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "cost",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dt",
+        "Type": "System.DateOnly",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MagellanTest.Controllers.ItemsController",
+    "Method": "test",
+    "RelativePath": "Items/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
